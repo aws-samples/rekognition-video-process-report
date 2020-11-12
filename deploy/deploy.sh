@@ -45,7 +45,7 @@ sleep 3
 
 echo -n 'Creating S3 Bucket : '
 BUCKET_CODE='sentiment-analysis-code-'$account
-BUCKET='sentiment-analysis'$account
+BUCKET='sentiment-analysis-'$account
 
 aws s3 mb s3://$BUCKET_CODE
 
