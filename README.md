@@ -30,7 +30,7 @@ Open the Cloud9 console at https://console.aws.amazon.com/cloud9
 
 ```
 
-git clone https://github.com/mandalvesq/rekognition-video-process-report.git
+git clone https://github.com/aws-samples/rekognition-video-process-report.git
 
 cd rekognition-video-process-report/deploy
 
@@ -59,7 +59,7 @@ To generate the analysis, upload a video with human expressing emotions inside t
 
 ```
 cd SageMaker
-git clone https://github.com/mandalvesq/rekognition-video-process-report.git
+git clone https://github.com/aws-samples/rekognition-video-process-report.git
 ```
 - Open the notebook: rekognition-video-process-report/notebook/sentiment_analysis_notebook.ipynb
 
