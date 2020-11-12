@@ -41,6 +41,8 @@ cd rekognition-video-process-report/deploy
 
 To generate the analysis, upload a video with human expressing emotions inside the S3 bucket named: sentiment-analysis-YOURACCOUNTID.
 
+**Currently supported formats: mp4**
+
 - [How to Upload files to S3](https://docs.aws.amazon.com/AmazonS3/latest/user-guide/upload-objects.html) 
 
 *Obs: The name of the video will be used for the rest of the process. Name it according to the content.*
